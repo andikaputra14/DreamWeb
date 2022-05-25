@@ -1,0 +1,10 @@
+.App{
+  margin: auto;
+  width: 30%;
+  padding: 10%;
+ 
+  font-weight: 400;
+}
+body{
+  background-color:gray;
+}
